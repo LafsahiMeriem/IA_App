@@ -1,0 +1,3 @@
+0 swimming
+1 shooting
+2 football
